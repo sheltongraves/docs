@@ -4,7 +4,7 @@ keywords: Docker Hub, pulls, download, limit,
 title: Docker Hub rate limit
 ---
 
-## What's the download rate limit on Docker Hub?
+## What's the download rate limit on Docker Hub
 
 Docker Hub limits the number of Docker image downloads, or pulls, based on the account type of the user pulling the image. Pull rate limits are based on individual IP address.
 
